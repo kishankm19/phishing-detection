@@ -1,0 +1,4 @@
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/elliot/.Xauthority which is owned by elliot.)
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/elliot/.Xauthority which is owned by elliot.)
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/elliot/.Xauthority which is owned by elliot.)
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/elliot/.Xauthority which is owned by elliot.)
